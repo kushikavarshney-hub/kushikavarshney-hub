@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Kushika Varshney
+B.A. (Hons.) Graduate
+Front-End Web Developer | Python Programmer
+Passionate about building responsive user-friendly web applications and continuously expanding my programming skills.
 
-<!--
-**kushikavarshney-hub/kushikavarshney-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- Python
+- HTML
+- CSS
+- JavaScript
+- APIs
+- Responsive Design
+- Git & GitHub
+ 
+## Featured Projects
+- Portfolio Website
+- Expense Tracker
+- To-Do App
+- Weather App
+- Quiz App
 
-Here are some ideas to get you started:
+## Certifications
+- Introduction to HTML
+- Basics of CSS
+- Introduction to JavaScript for Front-End Engineers
+- Mastering the DOM API
+- Communicating with APIs for Front-End Engineers
+- Certificate of Achievement- Comprehensive Introduction to Front-End Engineering
+  
+## Connect with Me
+- GitHub: https://github.com/kushikavarshney-hub
+- LinkedIn: https://www.linkedin.com/in/kushikavarshney
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
