@@ -1,6 +1,6 @@
 # Hi, I'm Kushika Varshney
-B.A. (Hons.) Graduate
-Front-End Web Developer | Python Programmer
+B.A. (Hons.) Graduate <br>
+Front-End Web Developer | Python Programmer <br>
 Passionate about building responsive user-friendly web applications and continuously expanding my programming skills.
 
 ## Skills
